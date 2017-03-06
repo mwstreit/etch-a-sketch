@@ -1,0 +1,1 @@
+This is the etch-a-sketch project for the odin project that utilizes html, css, and javascript/jquery.
