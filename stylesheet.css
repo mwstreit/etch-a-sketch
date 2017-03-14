@@ -1,0 +1,82 @@
+#outline{
+  background-color: #cc0000;
+  border-radius: 10px;
+  width:1080px;
+  height: 1180px;
+  margin: auto;
+}
+
+.button1{
+  background-color: #eee;
+  color: #cc0000;
+  width: 100px;
+  display: inline-block;
+  position: relative;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 24px;
+  padding: 5px;
+  margin-left: 240px;
+  top: 10px;
+}
+
+
+
+.button2{
+  background-color: #eee;
+  color: #cc0000;
+  width: 100px;
+  display: inline-block;
+  position: relative;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 24px;
+  padding: 5px;
+  float: right;
+  margin-right: 240px;
+  top: 10px;
+}
+
+#leftCircle{
+  background-color: white;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  margin-left: 100px;
+  margin-top: 40px;
+  display: inline-block;
+}
+
+
+#rightCircle{
+  background-color: white;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  float: right;
+  margin-right: 100px;
+  margin-top: 40px;
+  display: inline-block;
+}
+
+.container{
+  background-color: #eee;
+  position: relative;
+  top: 20px;
+  outline: 0px solid black;
+  margin: auto;
+  height: 960px;
+  width: 960px;
+  padding: 0;
+  border: none;
+  font-size: 0;
+}
+.grid{
+  outline: 1px solid #ddd;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  border: none;
+}
